@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-VERSION = (0, 9, 1, "yipit-rev14")
+VERSION = (0, 9, 1, "yipit-rev15")
 
 # Dynamically calculate the version based on VERSION tuple
 if len(VERSION) > 2 and VERSION[2] is not None:
