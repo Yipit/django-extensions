@@ -71,7 +71,7 @@ for dirpath, dirnames, filenames in os.walk(extensions_dir):
 version = __import__('django_extensions').__version__
 
 setup(
-    name='django-extensions',
+    name='django-extensions-yipit',
     version=version,
     description="Extensions for Django",
     long_description="""django-extensions bundles several useful
